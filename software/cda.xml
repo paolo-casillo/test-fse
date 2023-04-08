@@ -107,8 +107,8 @@ JOpenCDAr2 v. 20.04.00
 <representedCustodianOrganization>
 <id assigningAuthorityName="Ministero della Salute" extension="150907150907" root="2.16.840.1.113883.2.9.2.150907"/>
 <name>Regione Campania</name>
-<telecom use="HP" value="tel:0823232111"/>
-<addr use="HP">
+<telecom use="WP" value="tel:0823232111"/>
+<addr use="WP">
 <city>Caserta</city>
 <country>ITA</country>
 <streetAddressLine>Via Ferdinando Palasciano</streetAddressLine>
